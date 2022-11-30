@@ -526,6 +526,8 @@ html, body {
 #footerlocation p:nth-of-type(1) {
     font-weight: bold;
 }
+
+
 .searches{
     background-color: #f1f3f4;
     border-top-right-radius: 20px;
